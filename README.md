@@ -23,11 +23,11 @@ npm run serve
 ```
 npm run build
 ```
-### Run test - Cypress
+#### Run test - Cypress
 ```
 npm run test:e2e
 ```
-### Run lints
+#### Run lints
 ```
 npm run lint
 ```
