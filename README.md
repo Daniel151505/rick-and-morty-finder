@@ -1,29 +1,33 @@
-# rick-and-morty-finder
+# VIEW DEMO
+https://rick-and-morty-finder-application.netlify.app/
 
-## Project setup 
+## GETTING STARTED
+
+### Installation
+
+#### Clone the project
 ```
+https://github.com/Daniel151505/rick-and-morty-finder.git
+```
+
+#### Install node modules with npm
+```
+cd rick-and-morty-finder
 npm install
 ```
-
-### Compiles and hot-reloads for development
+#### Run Local
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+#### Run and compile build for production
 ```
 npm run build
 ```
-
-### Run your end-to-end tests - Cypress
+### Run test - Cypress
 ```
 npm run test:e2e
 ```
-
-### Lints and fixes files
+### Run lints
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

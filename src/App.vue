@@ -1,8 +1,9 @@
 <template>
-  <div></div>
+  <div class="bg-[#0f172a]">
   <NavBar class="bg-[#6CD55A]"/>
   <router-view/>
   <FooterBar class="bg-[#6CD55A]" />
+  </div>
 </template>
 <script>
 import FooterBar from "./components/FooterBar.vue";
