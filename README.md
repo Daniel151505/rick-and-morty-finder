@@ -1,6 +1,6 @@
 # rick-and-morty-finder
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
@@ -15,7 +15,7 @@ npm run serve
 npm run build
 ```
 
-### Run your end-to-end tests
+### Run your end-to-end tests - Cypress
 ```
 npm run test:e2e
 ```
